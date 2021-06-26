@@ -8,3 +8,5 @@ venv/
 /images
 /annotations
 the-oxfordiiit-pet-dataset.zip
+
+__pycache__/

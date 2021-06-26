@@ -2,3 +2,4 @@ requests
 kaggle
 opencv-python
 xmltodict
+pytest

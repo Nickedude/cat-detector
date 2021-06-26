@@ -7,3 +7,5 @@ get-data:
 	kaggle datasets download -d devdgohil/the-oxfordiiit-pet-dataset
 	unzip the-oxfordiiit-pet-dataset.zip
 
+unittests:
+	pytest tests/unittests

@@ -1,2 +1,4 @@
 requests
 kaggle
+opencv-python
+xmltodict

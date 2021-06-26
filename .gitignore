@@ -3,3 +3,8 @@ venv/
 
 # Ignore jetbrains stuff
 .idea/
+
+# Ignore data
+/images
+/annotations
+the-oxfordiiit-pet-dataset.zip

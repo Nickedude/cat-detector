@@ -3,3 +3,4 @@ kaggle
 opencv-python
 xmltodict
 pytest
+torch
